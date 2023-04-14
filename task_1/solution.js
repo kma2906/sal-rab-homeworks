@@ -40,7 +40,7 @@ function addInCartSumChange(sum, delta) {
 
     let newSum;
     newSum = oldSum + difference;
-    let newSumText = `${newSum}Р`;
+    let newSumText = `${newSum} ₽`;
     
 
     // Конец решения задания №1.3.
